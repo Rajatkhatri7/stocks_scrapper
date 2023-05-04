@@ -13,9 +13,9 @@ To generate the output follow these steps:-
 
 * Input :- 
 
-**    start_date (YYYY-MM-DD)
-**    end_date (YYYY-MM-DD)
-**    Amount to invest (int)
+*    start_date (YYYY-MM-DD)
+*    end_date (YYYY-MM-DD)
+*    Amount to invest (int)
 
 
 * Output :- we will get a output.csv file with the desired output. 
